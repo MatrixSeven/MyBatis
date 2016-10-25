@@ -8,7 +8,8 @@
 * 邮件(hacker.kill07@gmail.com)
 * QQ: 985390927
 * weibo: [@Alden_情绪控](http://weibo.com/Sweets07)
-* Blog: [http://www.zhaoguilin.com](http://www.zhaoguilin.com)
+* Blog: [https://matrixseven.github.io/](https://matrixseven.github.io/)
+* zhihu: [https://www.zhihu.com/people/Sweets07](https://www.zhihu.com/people/Sweets07)
 
 ##截图
 ![@Alden_情绪控](截图.png)

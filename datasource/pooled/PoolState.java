@@ -18,6 +18,28 @@ package org.apache.ibatis.datasource.pooled;
 import java.util.ArrayList;
 import java.util.List;
 
+//=======================================================
+//		          .----.
+//		       _.'__    `.
+//		   .--(^)(^^)---/#\
+//		 .' @          /###\
+//		 :         ,   #####
+//		  `-..__.-' _.-\###/
+//		        `;_:    `"'
+//		      .'"""""`.
+//		     /,  ya ,\\
+//		    //狗神保佑  \\
+//		    `-._______.-'
+//		    ___`. | .'___
+//		   (______|______)
+//=======================================================
+/**
+ * 线程池状态，并且持有取出来的真正的数据库连接
+ * @package org.apache.ibatis.datasource.pooled
+ * @author seven[hacker.kill07@gmail.com]<p>
+ * @zhihu https://www.zhihu.com/people/Sweets07
+ * @date   2016年10月9日-下午5:00:53
+ */
 public class PoolState {
 
   protected PooledDataSource dataSource;
